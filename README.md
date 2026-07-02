@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Kirti Goyal <br>
+  Hi 👋, I'm Kirti Goyal <br><br>
   💻 Computer Science Student |
   🌐 Web Developer
 </h1>
