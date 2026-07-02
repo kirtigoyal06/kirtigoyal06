@@ -1,12 +1,8 @@
 <h1 align="center">
-  Hi 👋, I'm Kirti Goyal |
+  Hi 👋, I'm Kirti Goyal <br>
   💻 Computer Science Student |
   🌐 Web Developer
 </h1>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="260" alt="Computer Illustration">
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B.;Exploring+Data+Structures+%26+Algorithms.;Building+with+Web+Development.;Turning+ideas+into+code." alt="Typing SVG" />
