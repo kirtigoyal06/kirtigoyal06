@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirti Goyal</h1>
 
-<h3 align="center">Turning ideas into code.</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Learning+C%2B%2B.;Exploring+Data+Structures+%26+Algorithms.;Building+with+Web+Development.;Turning+ideas+into+code." alt="Typing SVG" />
 </p>
@@ -24,7 +22,7 @@
 
 - 📚 Strengthening Data Structures & Algorithms
 - 💡 Building practical projects
-- 🌐 Learning Full-Stack Web Development
+- 🌐 Learning Web Development
 - ⚡ Writing clean and efficient code
 
 ---
@@ -53,8 +51,6 @@
 
 <div align="center">
 
-### 💜 Turning ideas into code.
-
-⭐ Thanks for visiting my profile!
+### 💜 Turning ideas into code
 
 </div>
